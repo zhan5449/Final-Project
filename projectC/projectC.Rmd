@@ -1,0 +1,13 @@
+---
+title: "projectC"
+author: "Charlene Zhang"
+date: "5/1/2020"
+output: word_document
+---
+
+Hi Richard,
+
+I decided to take a risk and skip this part of the project, assuming my projects A and B were enough to get me a passing grade. I found the other two a bit more of a challenge and I do feel somewhat confident about machine learning having invested so much time in the SIOP ML competition. 
+Thanks for a great course! I think if I had taken it when I first started to learn R, it could have saved me two whole years of blind googling.
+
+Charlene
