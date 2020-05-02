@@ -42,10 +42,10 @@ ui <- fluidPage(
 server <- function(input, output, session) {
     
     token <- create_token(app="Charlene Zhang R Interface",
-                          consumer_key="vRCyYyyt624fJ0KPUONmVNwLJ",
-                          consumer_secret="W2lYRg4YtrdWZDp08diiTCtzQo0ReIJYwBiG09ayocP5I5kfNA",
-                          access_token="1243243520560902146-pIz4oklYVDoTNxkZNc2QAZI3Ds8VRr",
-                          access_secret="wIrbBNBVFEDM1YGJtBHnnVddyChviiSeLo0lXNPmovO7J")
+                          consumer_key="xxx",
+                          consumer_secret="xxx",
+                          access_token="xxx",
+                          access_secret="xxx")
     dat <- rbind(search_tweets("#COVID ",
                                n=500,
                                include_rts=F,
